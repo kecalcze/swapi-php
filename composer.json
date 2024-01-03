@@ -1,5 +1,5 @@
 {
-    "name": "rmasters/swapi",
+    "name": "kecalcze/swapi",
     "license": "MIT",
     "copyright": "Ross Masters 2014",
     "authors": [
@@ -7,6 +7,11 @@
             "name": "Ross Masters",
             "email": "ross@rossmasters.com",
             "homepage": "http://codinghobo.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "Jakub Kubień",
+            "email": "kecalcze@gmail.com",
             "role": "Developer"
         }
     ],
